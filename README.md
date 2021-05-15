@@ -1,2 +1,2 @@
 # Desktop-wallets
-Desktop wallets
+Kawris Desktop wallets
